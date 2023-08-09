@@ -1,0 +1,4 @@
+mariadb/*.sql
+mykafka/kafka-3.5.0-src.tgz
+mykafka/kafka-3.5.0-src/
+mykafka/openjdk-20.0.1_macos-aarch64_bin.tar
